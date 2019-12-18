@@ -1,0 +1,342 @@
+¿Qué preferencia buscas al momento de elegir un restaurante?
+Multiple
+¿Qué preferencia buscas al momento de elegir un restaurante?
+Single
+Tipo de comida 
+Tipo de evento 
+Ubicación del restaurante 
+Null
+Null
+Null
+Null
+Null
+Null
+ 2
+ 0¸0¸0¸0¸0¸0¸0¸0¸0¸AND
+ 0¸0¸0¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 1
+¿Que tipo de comida buscas?
+Multiple
+¿Que tipo de comida buscas?
+Single
+Comida Rápida
+Comida Japonesa 
+Comida Italiana 
+Comida China
+Null
+Null
+Null
+Null
+Null
+ 3
+ 1¸0¸0¸0¸0¸0¸0¸0¸0¸AND
+ 1¸0¸0¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 2
+¿Que clase de comida rápida buscas?
+Multiple
+¿Que clase de comida rápida buscas?
+Single
+Pizza
+Hamburguesa
+Frituras
+Null
+Null
+Null
+Null
+Null
+Null
+ 2
+ 1¸2¸0¸0¸0¸0¸0¸0¸0¸AND
+ 1¸1¸0¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 2
+¿Que clase de valoración espera del restaurante?
+Multiple
+¿Que clase de valoración espera del restaurante?
+Single
+Mejor Valorado
+Valoracion Intermedia
+Valoración Baja
+Null
+Null
+Null
+Null
+Null
+Null
+ 2
+ 1¸2¸3¸0¸0¸0¸0¸0¸0¸AND
+ 1¸1¸1¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 2
+¿Que clase de hamburguesa buscas que tenga el restaurante?
+Multiple
+¿Que clase de hamburguesa buscas que tenga el restaurante?
+Single
+Artesanal 
+Clasica
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+ 1
+ 1¸2¸3¸0¸0¸0¸0¸0¸0¸AND
+ 1¸1¸2¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 1
+¿Que clase de fritura prefiere en el restaurante?
+Multiple
+¿Que clase de fritura prefiere en el restaurante?
+Single
+Pollo
+Carne
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+ 1
+ 1¸2¸3¸0¸0¸0¸0¸0¸0¸AND
+ 1¸1¸3¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 1
+¿Que tipo de comida japonesa prefiere?
+Multiple
+¿Que tipo de comida japonesa prefiere?
+Single
+Ramen
+Sushi
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+ 1
+ 1¸2¸0¸0¸0¸0¸0¸0¸0¸AND
+ 1¸2¸0¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 1
+¿Que clase de comida italiana estás buscando?
+Multiple
+¿Que clase de comida italiana estás buscando?
+Single
+Pizza
+Rissoto
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+ 1
+ 1¸2¸0¸0¸0¸0¸0¸0¸0¸AND
+ 1¸3¸0¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 1
+¿Que tipo de pizza prefiere?
+Multiple
+¿Que tipo de pizza prefiere?
+Single
+Artesanal
+Clasica
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+ 1
+ 1¸2¸8¸0¸0¸0¸0¸0¸0¸AND
+ 1¸3¸1¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 1
+¿Que clase de comida china estás buscando?
+Multiple
+¿Que clase de comida china estás buscando?
+Single
+Arroz Frito
+Tipica
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+ 1
+ 1¸2¸0¸0¸0¸0¸0¸0¸0¸AND
+ 1¸4¸0¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 1
+¿Que tipo de evento va a realizar?
+Multiple
+¿Que tipo de evento va a realizar?
+Single
+Cumpleaños
+Cita 
+Fiesta
+Null
+Null
+Null
+Null
+Null
+Null
+ 2
+ 1¸0¸0¸0¸0¸0¸0¸0¸0¸AND
+ 2¸0¸0¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 1
+¿Que clase de recomendación espera del restaurante para hacer el cumpleaños?
+Multiple
+¿Que clase de recomendación espera del restaurante para hacer el cumpleaños?
+Single
+Mejor Recomendado
+Recomendación Baja
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+ 1
+ 1¸11¸0¸0¸0¸0¸0¸0¸0¸AND
+ 2¸1¸0¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 1
+¿En que Horario espera realizar el cumpleaños?
+Multiple
+¿En que Horario espera realizar el cumpleaños?
+Single
+Matutino
+Vespertino
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+ 1
+ 1¸11¸12¸0¸0¸0¸0¸0¸0¸AND
+ 2¸1¸1¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 1
+¿Que presupuesto tiene para tener la cita?
+Multiple
+¿Que presupuesto tiene para tener la cita?
+Single
+Caro
+Moderado
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+ 1
+ 1¸11¸0¸0¸0¸0¸0¸0¸0¸AND
+ 2¸2¸0¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 1
+¿De que tamaño tiene pensado realizar la fiesta?
+Multiple
+¿De que tamaño tiene pensado realizar la fiesta?
+Single
+Grande
+Mediana
+Pequeña
+Null
+Null
+Null
+Null
+Null
+Null
+ 2
+ 1¸11¸0¸0¸0¸0¸0¸0¸0¸AND
+ 2¸3¸0¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 1
+¿En que horario planea realizar la fiesta?
+Multiple
+¿En que horario planea realizar la fiesta?
+Single
+Matutino 
+Vespertino
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+ 1
+ 1¸11¸15¸15¸15¸0¸0¸0¸0¸AND
+ 2¸3¸1¸2¸3¸0¸0¸0¸0¸
+nohelp.htm
+ 1
+¿En que sitio deseas que este ubicado el restaurante?
+Multiple
+¿En que sitio deseas que este ubicado el restaurante?
+Single
+Calles Concurridas
+Plazas
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+ 1
+ 1¸0¸0¸0¸0¸0¸0¸0¸0¸AND
+ 3¸0¸0¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 1
+¿En que calle concurrida prefiere que este ubicado el restaurante?
+Multiple
+¿En que calle concurrida prefiere que este ubicado el restaurante?
+Single
+Interamericana
+Central
+Calle Decima
+Null
+Null
+Null
+Null
+Null
+Null
+ 2
+ 1¸17¸0¸0¸0¸0¸0¸0¸0¸AND
+ 3¸1¸0¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 1
+¿Que tipo de estacionamiento prefiere que tenga la plaza?
+Multiple
+¿Que tipo de estacionamiento prefiere que tenga la plaza?
+Single
+Subterráneos
+Estacionamientos al aire libre
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+ 1
+ 1¸17¸0¸0¸0¸0¸0¸0¸0¸AND
+ 3¸2¸0¸0¸0¸0¸0¸0¸0¸
+nohelp.htm
+ 1

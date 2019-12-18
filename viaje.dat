@@ -1,0 +1,66 @@
+[LA LLEGUADA]
+Question 1=5¸-10¸0¸0¸0¸0¸0¸0¸0¸
+Question 2=-10¸-10¸10¸0¸0¸0¸0¸0¸0¸
+Question 3=-10¸10¸0¸0¸0¸0¸0¸0¸0¸
+RecordDescription=nodesc.htm
+
+[BOCAS DEL TORO]
+Question 1=10¸-10¸0¸0¸0¸0¸0¸0¸0¸
+Question 2=10¸-10¸-10¸0¸0¸0¸0¸0¸0¸
+Question 3=10¸-10¸0¸0¸0¸0¸0¸0¸0¸
+RecordDescription=nodesc.htm
+
+[BOQUETE]
+Question 1=-10¸10¸0¸0¸0¸0¸0¸0¸0¸
+Question 2=-10¸5¸-5¸0¸0¸0¸0¸0¸0¸
+Question 3=10¸-10¸0¸0¸0¸0¸0¸0¸0¸
+RecordDescription=nodesc.htm
+
+[SANTA CATALINA]
+Question 1=10¸5¸0¸0¸0¸0¸0¸0¸0¸
+Question 2=10¸0¸-10¸0¸0¸0¸0¸0¸0¸
+Question 3=-5¸10¸0¸0¸0¸0¸0¸0¸0¸
+RecordDescription=nodesc.htm
+
+[CASCO VIEJO]
+Question 1=5¸-10¸0¸0¸0¸0¸0¸0¸0¸
+Question 2=-10¸5¸-10¸0¸0¸0¸0¸0¸0¸
+Question 3=10¸-10¸0¸0¸0¸0¸0¸0¸0¸
+RecordDescription=nodesc.htm
+
+[VALLE DE ANTON]
+Question 1=5¸-10¸0¸0¸0¸0¸0¸0¸0¸
+Question 2=-10¸5¸-10¸0¸0¸0¸0¸0¸0¸
+Question 3=-10¸10¸0¸0¸0¸0¸0¸0¸0¸
+RecordDescription=nodesc.htm
+
+[ISLA DE LAS FLORES]
+Question 1=5¸-10¸0¸0¸0¸0¸0¸0¸0¸
+Question 2=-10¸-10¸5¸0¸0¸0¸0¸0¸0¸
+Question 3=10¸-10¸0¸0¸0¸0¸0¸0¸0¸
+RecordDescription=nodesc.htm
+
+[PLAYA PALMAR]
+Question 1=-10¸5¸0¸0¸0¸0¸0¸0¸0¸
+Question 2=5¸-10¸-10¸0¸0¸0¸0¸0¸0¸
+Question 3=10¸-10¸0¸0¸0¸0¸0¸0¸0¸
+RecordDescription=nodesc.htm
+
+[MARIATO]
+Question 1=-10¸5¸0¸0¸0¸0¸0¸0¸0¸
+Question 2=5¸-10¸-10¸0¸0¸0¸0¸0¸0¸
+Question 3=-10¸10¸0¸0¸0¸0¸0¸0¸0¸
+RecordDescription=nodesc.htm
+
+[SUMMIT]
+Question 1=-10¸5¸0¸0¸0¸0¸0¸0¸0¸
+Question 2=-10¸-10¸5¸0¸0¸0¸0¸0¸0¸
+Question 3=10¸-10¸0¸0¸0¸0¸0¸0¸0¸
+RecordDescription=nodesc.htm
+
+[LA SILAMPA]
+Question 1=-10¸5¸0¸0¸0¸0¸0¸0¸0¸
+Question 2=-10¸-10¸5¸0¸0¸0¸0¸0¸0¸
+Question 3=-10¸10¸0¸0¸0¸0¸0¸0¸0¸
+RecordDescription=nodesc.htm
+
